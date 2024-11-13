@@ -6,7 +6,7 @@ import ProfileCreation from "./pages/ProfileCreationPage";
 import SignupForm from "./components/SignupForm";
 import MessageScreen from "./components/MessageScreen";
 import FindMatches from "./components/FindMatches";
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import MatchResults from "./components/MatchResults";
 import { useAuth } from "./context/AuthContext"; // Importing Auth Context
 
